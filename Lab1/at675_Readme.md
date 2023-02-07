@@ -1,5 +1,5 @@
 # Interaction First
-\*\Antony Tahan, at675; Arushi Nigam, an452, Celine Lee, cl923\*\*
+\*\*Antony Tahan, at675; Arushi Nigam, an452, Celine Lee, cl923\*\*
 
 In this lab, you will modify a robotic creature (ConeBot) that is originally designed by [Dr. Rei Lee](https://infosci.cornell.edu/~reilee/), a friend of our lab. The [ConeBot](https://infosci.cornell.edu/~reilee/ConeBot/) is a shy robot that hides under a small traffic cone. It is adventuring the world by itself but hopes people don't notice it at all.
 
@@ -92,6 +92,8 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 ![Two_Pointers_Patterns-21_3](https://user-images.githubusercontent.com/36029438/217168191-78f9c43d-575f-4c40-b75a-e647aab2ac5d.jpg)
 ![Two_Pointers_Patterns-21_2](https://user-images.githubusercontent.com/36029438/217168192-0f65a069-7b97-45b5-bce3-fc0c68115ec9.jpg)
 ![Two_Pointers_Patterns-20](https://user-images.githubusercontent.com/36029438/217168193-fe11b5dd-e1e5-4997-8430-b7cf940f96fc.jpg)
+
+![Two_Pointers_Patterns-20_2](https://user-images.githubusercontent.com/36029438/217172757-10ddd096-069b-4077-8454-b9bde558d9ec.jpg)
 
 ## Part C. Act out the Interaction
 
