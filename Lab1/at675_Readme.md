@@ -1,5 +1,5 @@
 # Interaction First
-\*\*Antony Tahan, at675; Arushi Nigam, an452, Celine Lee, cl923\*\*
+\*\*Antony Tahan, at675; Arushi Nigam, an452; Celine Lee, cl923\*\*
 
 In this lab, you will modify a robotic creature (ConeBot) that is originally designed by [Dr. Rei Lee](https://infosci.cornell.edu/~reilee/), a friend of our lab. The [ConeBot](https://infosci.cornell.edu/~reilee/ConeBot/) is a shy robot that hides under a small traffic cone. It is adventuring the world by itself but hopes people don't notice it at all.
 
