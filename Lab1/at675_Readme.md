@@ -1,5 +1,5 @@
 # Interaction First
-\*\***Antony Tahan, at675; Arushi Nigam, an452, Celine Lee, cl923 **\*\*
+\*\Antony Tahan, at675; Arushi Nigam, an452, Celine Lee, cl923\*\*
 
 In this lab, you will modify a robotic creature (ConeBot) that is originally designed by [Dr. Rei Lee](https://infosci.cornell.edu/~reilee/), a friend of our lab. The [ConeBot](https://infosci.cornell.edu/~reilee/ConeBot/) is a shy robot that hides under a small traffic cone. It is adventuring the world by itself but hopes people don't notice it at all.
 
@@ -13,6 +13,8 @@ For this week's lab (and also the following week), you will work in groups of 3.
 ### For this lab, you will need:
 1. Smart Phone (Laptop or Tablets also work) -- The main required feature is that the phone needs to connect to WiFi and display a webpage.
 2. To work in a group of 3 (encouraged) or 4 people (if necessary).
+
+Antony Tahan, at675; Arushi Nigam, an452, Celine Lee, cl923
 
 \*\***^^^ List the names and NetID for your partners above. ^^^**\*\*
 
@@ -74,19 +76,48 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
+_Setting:_ Office during a coffee break, at a party, in class, in a hallway
+
+_Players:_ Employees meeting for coffee, friends. I find current day mobile robots hard to use on non-standard surfaces, and their shape does not make for easy movement and interaction with humans.
+
+_Activity:_ Meeting, dancing, walking to class
+
+_Goals:_ Catching up, to have a good time, to arrive to class on time.
+
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch five storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the CloneBot and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
 
+![Two_Pointers_Patterns-21](https://user-images.githubusercontent.com/36029438/217168189-553cca5c-c57d-44ae-a7db-b226e468f125.jpg)
+![Two_Pointers_Patterns-21_3](https://user-images.githubusercontent.com/36029438/217168191-78f9c43d-575f-4c40-b75a-e647aab2ac5d.jpg)
+![Two_Pointers_Patterns-21_2](https://user-images.githubusercontent.com/36029438/217168192-0f65a069-7b97-45b5-bce3-fc0c68115ec9.jpg)
+![Two_Pointers_Patterns-20](https://user-images.githubusercontent.com/36029438/217168193-fe11b5dd-e1e5-4997-8430-b7cf940f96fc.jpg)
 
 ## Part C. Act out the Interaction
 
 Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interactions you planned with your teammates. (Do not plug in the CloneBot just yet.) Record these video clips, and submit them (Unlisted Youtube links are fine).
 
+
+
+https://user-images.githubusercontent.com/36029438/217172097-93807100-71ec-4c0a-8189-ae50c73918e5.mov
+
+
+
+https://user-images.githubusercontent.com/36029438/217172103-a42bc383-f79b-438e-8361-6c393dc9f915.mov
+
+
+
+https://user-images.githubusercontent.com/36029438/217172109-5aa0d87b-a8ee-4e8d-8d4c-3cdb6ae91ecf.mov
+
+
+
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+
+Certain storyboard ideas that needed some more eventfulness. One of the ones that seemed better on paper was the one in which the clonebot terrified a student walking to class; while it was a creative idea, it was harder to execute the shock factor we attempted to convey in the video.
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+While enacting the storyboard scenes, we came up with enhancements to our original ideas in order to make them more compelling, such as running away from the clonebot after it surprises the user, or for the robot to dance in the center of the party.
 
 ## Your Weekly Dose of ROS
 
