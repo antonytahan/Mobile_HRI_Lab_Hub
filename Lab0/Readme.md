@@ -575,16 +575,27 @@ You should be able to see both of your nodes connected through the topic.
 https://github.com/antonytahan/Mobile_HRI_Lab_Hub/tree/main/Lab0/lab0-2023-01-26
 
 2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
+
   Q1: How does the class HRI publisher know to use the libraries we included?
+  
   - The functions we are calling are part of the library we have included at the top using import.
+  
   Q2: How often do we have to spin?
+  
   - Spin should be used if subscribing to messages, services or actions through ros::spin() to process the events.
+  
   Q3: How is the publisher and the subscriber being linked?
+  
   - Through the topic. Nodes can publish or subscribe to a topic.
+  
   Q4: What about ROS makes it the choice software framework to use for robotics?
+  
   - ROS seems to allow developers to be able to simulate their robot in numerous environments seamlessly, before any physical deployment is necessary.
+  
   Q5: Do we always need to shut down nodes in ROS after we do not need them anymore?
+  
   -  It doesn't look like it. It is typically used to stop subscriptions and other service calls, but shutdown does not need to be called.
 
 3. Feedback on the bootcamp: What was easy and what was difficult to understand?
-I thought the bootcamp was very straightforward to follow. However, that may be because I have knowledge and experience using Github. Overall, I felt as though the concept explanations and logical progression of the tutorial made a lot of sense. Thank you!
+
+I thought the bootcamp was very straightforward to follow. However, that may be because I have some experience using Github. Overall, I felt as though the concept explanations and logical progression of the tutorial made a lot of sense. Thank you!
