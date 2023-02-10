@@ -83,7 +83,8 @@ Pick one of the custumes and make it with paper or cardboard or any other materi
 
 \*\***Include photos of your costumed robot here.**\*\*
 
-![Mummy_robot_pic](https://user-images.githubusercontent.com/36029438/218161197-451eb4e8-7043-442d-a779-0857c325b6d0.jpeg)
+![Mummy_robot_pic](https://user-images.githubusercontent.com/36029438/218194603-b95f354a-c0ad-4089-ac4f-8e2a89a6c5da.jpg)
+
 ![Dance_robot_pic](https://user-images.githubusercontent.com/36029438/218161199-02caf33b-24e7-4651-a38f-fd116102db8a.jpg)
 
 
@@ -123,10 +124,12 @@ Be generous in acknowledging their contributions! And also recognizing any other
 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+
 ![Two_Pointers_Patterns-21_2](https://user-images.githubusercontent.com/36029438/218193818-4adc538f-00cf-4684-aff7-2d62927da4f5.jpg)
 ![Two_Pointers_Patterns-21_3](https://user-images.githubusercontent.com/36029438/218193820-b2dac733-4851-4cda-98e4-be80367a5457.jpg)
 ![Dance_robot_pic](https://user-images.githubusercontent.com/36029438/218193891-21960503-af62-4e29-a75d-c1ccb32b5f0f.jpg)
-![Mummy_robot_pic](https://user-images.githubusercontent.com/36029438/218193894-70091bb1-9c64-434b-b617-d5a04e455a11.jpeg)
+![Mummy_robot_pic](https://user-images.githubusercontent.com/36029438/218194655-b8141038-9e9a-4729-8544-39a5f8afe393.jpg)
 
 
 https://user-images.githubusercontent.com/36029438/218193964-2a969b58-ef00-4a91-afb8-6d5016c16da9.mov
