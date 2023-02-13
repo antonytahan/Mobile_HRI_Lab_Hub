@@ -46,6 +46,9 @@ You and your teammates will be assigned lab 1 submissions from one other group. 
 
 **Summarize feedback your feedback here.**
 
+One of the aspects I enjoyed most about their storyboards and videos were that they focused on functional ideas for their robot. Each of the robot's goals had utility, and it was nice to see the differences in the ways of our ideation process.
+I also really enjoyed looking through their storyboards. They did an excellent job at conveying the scene and goal of the robot in an enjoyable, digestible style.
+
 ## Part B. Site the interaction
 
 Think about where the interaction you are prototyping is going to occur-- on a desk? on a floor? indoors? outdoors?
