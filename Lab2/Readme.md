@@ -103,23 +103,10 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 ![In_action](https://user-images.githubusercontent.com/36029438/218162121-345f9833-91dd-4093-b4fb-468092fdac24.jpg)
 
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
-
-\*\***Show the follow-up work here.**\*\*
-
-
-https://user-images.githubusercontent.com/36029438/218193588-160b9e77-f39b-4d31-9335-7b9c48c35bbd.mov
-
-
 
 ## Part E. Record
 
 \*\***Take videos of your prototyped interaction.**\*\*
-
-
-
-https://user-images.githubusercontent.com/36029438/218193622-3147caf5-10fa-4a25-a9e1-6b62d6df9214.mov
-
 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
@@ -131,8 +118,6 @@ Be generous in acknowledging their contributions! And also recognizing any other
 
 ![Two_Pointers_Patterns-21_2](https://user-images.githubusercontent.com/36029438/218193818-4adc538f-00cf-4684-aff7-2d62927da4f5.jpg)
 ![Two_Pointers_Patterns-21_3](https://user-images.githubusercontent.com/36029438/218193820-b2dac733-4851-4cda-98e4-be80367a5457.jpg)
-![Dance_robot_pic](https://user-images.githubusercontent.com/36029438/218193891-21960503-af62-4e29-a75d-c1ccb32b5f0f.jpg)
-![Mummy_robot_pic](https://user-images.githubusercontent.com/36029438/218194655-b8141038-9e9a-4729-8544-39a5f8afe393.jpg)
 
 
 https://user-images.githubusercontent.com/36029438/218193964-2a969b58-ef00-4a91-afb8-6d5016c16da9.mov
