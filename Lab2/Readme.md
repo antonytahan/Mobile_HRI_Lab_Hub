@@ -1,6 +1,8 @@
 # Then Prototype the Robot
 
 Antony Tahan (at675), Arushi Nigam (an452), Celine Lee (cl923)
+=======
+**List the names and NetID for your partners here.**
 
 This week's lab is a continuation of the previous week. We explore the role of both *siting*--the location and activity--in interaction, as well as the *form and appearance* of the robot in the interaction.
 
@@ -21,9 +23,9 @@ This week's lab is a continuation of the previous week. We explore the role of b
 ### Deliverables for this lab are: 
 
 0. Fill in the questions along the way! 
-1. 3 photos of costumed devices
+1. 1 photo of costumed device
 2. Reflections on the process
-3. Video sketch of 3 prototyped interactions with costumed devices
+3. Video sketch of 1 prototyped interactions with costumed device
 4. Submit the items above in the lab2 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same from each person in the group.
 
 ### The Report 
@@ -133,5 +135,5 @@ Labs are due on Tuesdays before class. Make sure this page is linked to on your 
 0. Fill in the questions along the way! 
 1. photos of costumed robots
 2. Reflections on the process
-3. Video sketch of 3 prototyped interactions with costumed devices
+3. Video sketch of 1 prototyped interactions with the costumed device
 4. Submit the items above in the lab2 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same from each person in the group.
