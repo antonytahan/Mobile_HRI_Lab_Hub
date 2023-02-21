@@ -302,4 +302,5 @@ Check Canvas discussion channel "Final Project Ideas" for ideas. We posted some 
 
 Our three skteches of potential robots we can build with this platform are a garbage robot, a dining server bot, and a food delivery bot. Please see the sketches for each below:
 
+<img width="995" alt="Screen Shot 2023-02-21 at 12 44 49 AM" src="https://user-images.githubusercontent.com/36029438/220259290-7ecdc7ec-fa50-447f-b028-560ccad9db65.png">
 
