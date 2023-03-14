@@ -317,7 +317,7 @@ Now, press and hold `L1` on your controller and play with the two joysticks. Hop
 
 0. Videos of you controlling the wheels with your joystick controller properly.
 
-https://drive.google.com/drive/folders/1vhahq5XkhKrEYifXG1XyOJHdF1yrLBpt
+https://drive.google.com/file/d/18J-nIWWj_Wz5S2UXKcuIYTS30eok6HwE/view?usp=sharing
 
 1. Three ideas on how to use controllers' rumble feature for Wizard of Oz.
 
