@@ -316,4 +316,12 @@ Now, press and hold `L1` on your controller and play with the two joysticks. Hop
 ### Again, deliverables for this lab are: 
 
 0. Videos of you controlling the wheels with your joystick controller properly.
+
+https://drive.google.com/drive/folders/1vhahq5XkhKrEYifXG1XyOJHdF1yrLBpt
+
 1. Three ideas on how to use controllers' rumble feature for Wizard of Oz.
+
+- Short vibration when an item is taken off of the WaiterBot
+- Longer vibration when WaiterBot's trash is full
+- Short, strong vibration when WaiterBot collides into something or cannot move
+
