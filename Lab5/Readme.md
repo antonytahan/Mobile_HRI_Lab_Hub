@@ -1,5 +1,6 @@
 # Give the robot moves
 **List the names and NetID for your partners here.**
+Antony Tahan (at675), Arushi Nigam (an452), Celine Lee (cl923)
 
 Now, let's control our robots to make them move intuitively. 
 
