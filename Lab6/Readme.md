@@ -1,6 +1,9 @@
 # Choreographing Movement
 **List the names and NetID for your partners here.**
 
+Antony Tahan (at675), Arushi Nigam (an452), Celine Lee (cl923)
+
+
 It is about time to have a functioning mobile robot! Starting from this lab, you should prioritize either robot building and/or study design. 
 
 ## Prep
@@ -99,8 +102,32 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 ### Again, deliverables for this lab are: 
 
 0. Photos of your robot prototype
+
+![IMG_8418](https://user-images.githubusercontent.com/36029438/228283314-7bf2834e-abbc-4d0b-b504-e261af52920a.jpg)
+![IMG_8417_2](https://user-images.githubusercontent.com/36029438/228283321-53319848-7cb6-4789-abd1-d07c2ceac933.jpg)
+![final_body](https://user-images.githubusercontent.com/36029438/228282588-4267526f-834a-4e0c-a0dc-9b41f70cb0c0.jpg)
+
+
 1. A video of your robot moving around
+
+We were unfortunately not able to get a video of our robot moving around; this we because we had spent a lot of time working on our robot's body.
+We ended up handsawing wooden fittings to place the castor wheels, sawing wooden and PVC supports, and coming up with a way to secure the chair on to the hoverboard chassis. 
+
+We have programmed our wheels to move based on the joystick commands desired however:
+
+https://drive.google.com/file/d/18J-nIWWj_Wz5S2UXKcuIYTS30eok6HwE/view?usp=sharing
+
 2. A sketch of a series movements based on your final project
+
+![storyboard_movement](https://user-images.githubusercontent.com/36029438/228282641-1dea188d-b806-49cb-afae-bc5631570d1b.jpg)
+
+
 3. A video showing your robot perform the movements in 2.
+
+Our goal is to accomplish this in our next lab due to the difficulty we faced in prototyping the robot body.
+
 4. Reflect upon your design, what would you do differently?
 
+One of the things I would have liked to do differently is to have laser cut support panels instead of spending lots of time hand-sawing separate parts. We did not end up doing so because none of the team had knowledge in operating the laser cutter, but it would have likely helped in the design and execution of the robot body.
+
+I would have also liked to have avoided using hot glue to fix the castor wheels -- we did so due to a lack of long bolts available which we would have instead used to screw through the brackets of the castor wheel and fix it on the other side with a nut.
