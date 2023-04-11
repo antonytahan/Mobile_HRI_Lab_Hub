@@ -3,6 +3,7 @@
 
 **List the names and NetID for your partners here.**
 
+Antony Tahan (at675), Arushi Nigam (an452), Celine Lee (cl923)
 
 In this lab, let's try out some moves with our robots and make them talk!
 
@@ -26,8 +27,6 @@ If you haven't finished your robot chassis, try to wrap it up in this lab.
 4. Before/after sketch of your robot interacting with people through motion and voice
 5. A video sketch of your designed interaction
 6. Videos trying out elicited verbal interaction
-
-
 
 
 ## Lab Overview
@@ -126,6 +125,20 @@ Be mindful of the others around you. Be safe.
 6. Videos trying out elicited verbal interaction
 
 
+Girl Scared of Picnic Bot Sketch
 
+![scared_sketch](https://user-images.githubusercontent.com/36029438/231197319-1800cc67-456e-4b30-ba9e-3713129bdac4.jpeg)
+
+Video of robot scaring someone after it touches them:
+
+https://user-images.githubusercontent.com/36029438/231198725-10555d3c-bb31-4644-8866-6625b7428541.mp4
+
+Picnic Bot Serving Birthday Boy Sketch:
+
+![robot_interaction_sketch](https://user-images.githubusercontent.com/36029438/231194421-6b390074-c324-4665-b34d-0939d58169bb.jpeg)
+
+Video of robot serving birthday boy with motion and audio:
+
+https://user-images.githubusercontent.com/36029438/231198868-675d1970-0d5e-493e-96b7-3394382d3652.mp4
 
 
