@@ -13,8 +13,8 @@ TO UPLOAD & LINK
 ## Architecture
 
 The architecture of the robot initially started out as a tall stool connected to either side of the hoverboard chassis. We had used the stool stop to connect the two hind legs of the chair to the chassis, and hand-sawed two wooden pieces which the two front legs of the chair fit into. At the bottom of these wooden pieces, we had glued caster (free to rotate) wheels. You can see some images of the early design process below:
-![IMG_8417](https://github.com/antonytahan/Mobile_HRI_Lab_Hub/assets/36029438/8a65d053-0172-4196-b524-e3a79cd8a3fb)
 ![IMG_8418 (1)](https://github.com/antonytahan/Mobile_HRI_Lab_Hub/assets/36029438/cd1d78fe-b0ef-404a-970e-951c24730acc)
+![IMG_8417](https://github.com/antonytahan/Mobile_HRI_Lab_Hub/assets/36029438/8a65d053-0172-4196-b524-e3a79cd8a3fb)
 
 
 In practice, however, we found that the structure was too unstable to be used as a longer term solution, so we pivoted to a lower center of mass architecture with a wider flat surface.
