@@ -21,7 +21,8 @@ The architecture of the robot initially started out as a tall stool connected to
 
 
 In practice, however, we found that the structure was too unstable to be used as a longer term solution, so we pivoted to a lower center of mass architecture with a wider flat surface.
-After several iterations of design, we landed on an architecture that utilizes the hoverboard chassis widened more than the default width and its two wheels. The main platform consists of a rectangular wooden board that is clamped on either side to the hoverboard chassis, with a custom cardboard container attached on the hoverboard side to house our electronics used: the Pi, O drive, portable power source for the pi, power source for the O drive, and all associated cables.
+After several iterations of design, we landed on an architecture that utilizes the hoverboard chassis widened more than the default width and its two wheels. The main platform consists of a rectangular wooden board that is clamped on either side to the hoverboard chassis, with a custom cardboard container attached on the hoverboard side to house our electronics used: the Pi, O drive, portable power source for the pi, power source for the O drive, and all associated cables. The overall architecture sketch can be seen below:
+![IMG_6730.jpeg](IMG_6730.jpeg)
 
 ## Interactions
 A compiled video of interactions with Picnicbot can be found at this link: [Picnicbot movie](https://drive.google.com/file/d/1ZNNgP3XWHHizdWEf-BpbTmtPwc-Q37ql/view?usp=share_link).
